@@ -12,7 +12,7 @@ const findDocuments = function(db, callback) {
 const MongoClient = require('mongodb').MongoClient;
 const assert = require('assert');
 // Connection URL
-const url = 'mongodb+srv://dswa5:dswa5@cluster0.3xopm.mongodb.net/<dbname>?retryWrites=true&w=majority';
+const url = 'mongodb+srv://1234:1234@twitter.vw2tu.mongodb.net/myFirstDatabase?retryWrites=true&w=majority';
 // Database Name
 const dbName = 'ifsp';
 // Use connect method to connect to the server
